@@ -1,4 +1,4 @@
-L# Portfolio Projects
+# Portfolio Projects
 This is my project list.
 
 TSP: 
