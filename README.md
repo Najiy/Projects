@@ -1,4 +1,8 @@
-# Portfolio Projects
+L# Portfolio Projects
 This is my project list.
 
-TSP - Travelling Salesman Problem with Genetic Algorithms in F#.
+TSP: 
+Travelling Salesman Problem with Genetic Algorithms in F#.
+
+LEGO-DRONE:
+Some pictures of lego-frame drones. No carbon fibre, just legos.
