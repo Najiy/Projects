@@ -1,6 +1,6 @@
 # My Projects
 
-# LEGO DRONES
+# Lego Drones
 Some pictures of lego-frame drones. No carbon fibre just legos!
 
 # TSP-GA
