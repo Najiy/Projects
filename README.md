@@ -1,5 +1,5 @@
 
-# Lego Drones
+# LEGO-DRONES
 Some pictures of lego-frame quadcopters. No carbon fibre just legos!
 
 # TSP-GA
